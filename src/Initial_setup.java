@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Initial_setup {
 
     private static final int SIZE = 3;
 
