@@ -2,7 +2,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class EASY_TO_DO {
+public class Adding_Easy_AI {
 
 
     static final int SIZE = 3;

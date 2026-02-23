@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Initial_setup {
+public class TicTacToeAIStage1 {
 
     private static final int SIZE = 3;
 
